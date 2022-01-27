@@ -1,0 +1,19 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.black1 li a{
+    color: #000;
+}
+
+.dotbg1{
+    background: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btnnn{
+    width: 150px;
+    margin-left: 140px;
+    
+}
