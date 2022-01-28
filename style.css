@@ -7,13 +7,31 @@
 }
 
 .dotbg1{
-    background: url(images/bg-1.png);
+    background: url(images/bg-1.png );
     background-repeat: no-repeat;
     background-position: center;
+    
+}
+
+.side1{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 .btnnn{
     width: 150px;
     margin-left: 140px;
     
+}
+
+.card{
+    height: 600px;
+    border: none;
+    border-radius: 20px ;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.shadow1{
+    box-shadow: 10px 10px 10px gray;
 }
